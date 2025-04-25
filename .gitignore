@@ -1,0 +1,28 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+# Ignore dependency management files
+venv/
+*.log
+
+# Ignore scan result files
+*.csv
+Original.py
+
+# Ignore test api
+testapi.py
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore image cache
+*.png
+*.jpg
+*.jpeg
